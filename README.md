@@ -1,6 +1,7 @@
 # Credit card Weekly Transaction Report
 
-# Project Objectives: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyzw credit card opetations effectively. 
+# Project Objectives:
+ To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyzw credit card opetations effectively. 
 
 # Dashboard Overview
 
@@ -76,6 +77,6 @@ Overview Year-To-Date:
 - Overall Delinquent rate is 6.06%
 
 Week Over Week Change: Week 53
-- Revenue increassed by 28.8%
+- Revenue increased by 28.8%
 - Total Transaction amount increased by 35.04%
 - Total transaction count increased by 3.39%
