@@ -63,7 +63,7 @@ The Power BI dashboard provides visualizations and insights into:
 - DAX (Data Analysis Expressions) in Power Bi Desktop
 - Excel for data cleaning
 
-# Projecct Insights:
+# Project Insights:
  
 Overview Year-To-Date:
 - Overall revenue is 57 Million
