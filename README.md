@@ -62,3 +62,20 @@ The Power BI dashboard provides visualizations and insights into:
 - MySQL for relational data modeling
 - DAX (Data Analysis Expressions) in Power Bi Desktop
 - Excel for data cleaning
+
+# Projecct Insights:
+ 
+Overview Year-To-Date:
+- Overall revenue is 57 Million
+-Total interest is 8 Million
+- Total transaction amount is 46 Million
+- Male customers are contributinng more in the revenue i.e 31 Million
+- Blue & Silver cards are contributing to 93% of overall transactions
+- Texas(TX), New York(NY) & California (CA) is contributing to 68% 
+- Overall Activation rate is 57.5%
+- Overall Delinquent rate is 6.06%
+
+Week Over Week Change: Week 53
+- Revenue increassed by 28.8%
+- Total Transaction amount increased by 35.04%
+- Total transaction count increased by 3.39%
